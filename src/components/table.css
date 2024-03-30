@@ -1,0 +1,17 @@
+th,tr, td{
+    border: 1px solid black;
+}
+
+.div1 {
+  background-color:chocolate;
+  width: 200px;
+  height:70px;
+  border: 1px solid black;
+}
+
+.div2{
+    background-color: crimson;
+    width: 200px;
+    height:70px;
+    border: 1px solid black;
+}
